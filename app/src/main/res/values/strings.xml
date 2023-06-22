@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Ass1</string>
+    <string name="welcome_to_our_app">Welcome to our app</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="TODO2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="choose_one_to_make_calculations_on">Choose one to make calculations on</string>
 </resources>
